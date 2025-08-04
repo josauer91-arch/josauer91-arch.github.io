@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Koala 101: How to Use the Super Powers of AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="blog.html">Blog</a> |
+            <a href="nomics.html">Nomics</a> |
+            <a href="books.html">Books</a>
+        </nav>
+
+        <h1>Koala 101: How to Use the Super Powers of AI</h1>
+        <p><em>Published: August 4, 2025</em></p>
+
+        <p>In today’s digital jungle, every creator, student, or businessperson has access to powerful AI tools—...</p>
+
+        <!-- (Include the full blog post content here as previously shared) -->
+
+        <p style="margin-top: 40px;"><a href="#top">↑ Back to top</a></p>
+    </div>
+</body>
+</html>
